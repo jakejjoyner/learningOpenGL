@@ -1,0 +1,36 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-g",
+      "-I./includes/glad/include",
+      "-I./includes",
+      "-I./includes/glm",
+      "-c",
+      "-o",
+      "stb_image.o",
+      "stb_image.cpp"
+    ],
+    "directory": "/home/jakejoyner/personal/learningOpenGL",
+    "file": "/home/jakejoyner/personal/learningOpenGL/stb_image.cpp",
+    "output": "/home/jakejoyner/personal/learningOpenGL/stb_image.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-Wall",
+      "-g",
+      "-I./includes/glad/include",
+      "-I./includes",
+      "-I./includes/glm",
+      "-c",
+      "-o",
+      "triangle.o",
+      "triangle.cpp"
+    ],
+    "directory": "/home/jakejoyner/personal/learningOpenGL",
+    "file": "/home/jakejoyner/personal/learningOpenGL/triangle.cpp",
+    "output": "/home/jakejoyner/personal/learningOpenGL/triangle.o"
+  }
+]
