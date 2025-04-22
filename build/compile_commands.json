@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes/glad/include -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes/glm -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/learning_opengl.dir/src/main.cpp.o -c /Users/jakejoyner/personal/learningOpenGL/learningOpenGL/src/main.cpp",
+  "file": "/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/src/main.cpp",
+  "output": "CMakeFiles/learning_opengl.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes/glad/include -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes/glm -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/System/Library/Frameworks -isystem /opt/homebrew/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/learning_opengl.dir/includes/glad/src/glad.c.o -c /Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes/glad/src/glad.c",
+  "file": "/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes/glad/src/glad.c",
+  "output": "CMakeFiles/learning_opengl.dir/includes/glad/src/glad.c.o"
+},
+{
+  "directory": "/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes/glad/include -I/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/includes/glm -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/learning_opengl.dir/src/stb_image.cpp.o -c /Users/jakejoyner/personal/learningOpenGL/learningOpenGL/src/stb_image.cpp",
+  "file": "/Users/jakejoyner/personal/learningOpenGL/learningOpenGL/src/stb_image.cpp",
+  "output": "CMakeFiles/learning_opengl.dir/src/stb_image.cpp.o"
+}
+]
