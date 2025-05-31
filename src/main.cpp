@@ -210,7 +210,7 @@ int main()
     glVertexAttribPointer(1, 2, GL_FLOAT, GL_FALSE, 4 * sizeof(float), (void*)(sizeof(float) * 2));
        // load textures
     // -------------
-    unsigned int cubeTexture  = loadTexture("assets/marble.jpg", "repeat");
+    unsigned int cubeTexture  = loadTexture("assets/container.jpg", "repeat");
     unsigned int floorTexture = loadTexture("assets/metal.png", "repeat");
     unsigned int grassTexture = loadTexture("assets/blending_transparent_window.png", "clamp_to_edge");
 
