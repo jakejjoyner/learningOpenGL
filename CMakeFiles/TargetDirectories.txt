@@ -1,0 +1,3 @@
+/home/jakejoyner/personal/learningOpenGL/CMakeFiles/learning_opengl.dir
+/home/jakejoyner/personal/learningOpenGL/CMakeFiles/edit_cache.dir
+/home/jakejoyner/personal/learningOpenGL/CMakeFiles/rebuild_cache.dir
